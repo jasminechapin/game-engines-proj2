@@ -1,0 +1,39 @@
+-- Who worked on this project?
+Liam Cristello, Will Bridges, Jay Andrews, and Jasmine Chapin
+
+
+-- How many hours did it take you to complete this project? (answer for each milestone)
+Milestone 1: 10 hours
+Milestone 2: 8 hours
+Milestone 3: 12 hours
+
+
+-- Did you implement any extentions? If so, which ones and how can they be tried out? Who implemented each?
+Box2D physics 
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+Much of the foundation for this project was taken from project 1 - breakout, including but not
+limited to math, collisions, physics, logic, classes, level-loading, audio, and images.
+
+We decided the component and physics systems from labs 7 and 8 would be a great foundation
+to build on for milestone 2 and 3, so we essentially used lab 8 as starter code and built 
+several custom objects and components from there.
+
+
+-- Did you use any external resources? If so, cite them below.
+LazyFoo tutorials
+https://freesound.org/people/OwlStorm/sounds/404769/ - For bounce sound effect
+https://freesound.org/people/akelley6/sounds/453036/ - For death sound effect
+https://freesound.org/people/jivatma07/sounds/122255/ - For goal sound effect
+https://freesound.org/people/original_sound/sounds/366104/ - For collectible sound effect
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+
+
+
+-- (Optional) What was your favorite part of the project?
+
+
+
+-- (Optional) How would you improve the project?
