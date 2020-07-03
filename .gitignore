@@ -25,11 +25,3 @@
 *.la
 *.a
 *.lib
-
-# Executables
-*.exe
-*.out
-*.app
-.cproject
-.project
-.settings/org.eclipse.cdt.codan.core.prefs
